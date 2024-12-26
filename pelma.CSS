@@ -1,0 +1,88 @@
+h5{
+    font-family: Helvetica;
+    font-size: 80px;
+    color: pink;
+    text-align: center;
+}
+nav{
+        background-color: steelblue;
+}
+nav a{
+    display: block;
+    padding: 14x 16px;
+    color:black;
+    float: right
+}
+nav a:hover{
+    background-color: lightblue
+}
+.nav, .footerbar{
+    background-color: steelblue;
+    overflow: hidden;
+}
+nav a, footer a{
+    display: block;
+    padding: 14px 16px;
+    color:blueviolet;
+    text-decoration: dotted;
+    float: right;
+}
+p{
+    padding: 25px 50px 70px 90px;
+    background-color: brown;
+}
+h2{
+    display: square;
+    height:20%;
+    background-color: blue;
+    color: aqua;
+    font-size: 29px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c72323;
+    color: #333;
+}
+header {
+    background-color: #061320;
+    color: rgb(75, 11, 11);
+    padding: 1em 0;
+    text-align: center;
+}
+nav {
+    background-color: #3b5a73;
+    padding: 0.5em;
+}
+nav a {
+    color: rgb(160, 40, 40);
+    text-decoration: none;
+    margin: 0 1em;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    padding: 2em;
+}
+.section {
+    margin-bottom: 2em;
+    background: rgb(201, 190, 190);
+    padding: 1.5em;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #5c7b9d;
+    color: rgb(43, 7, 7);
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 2em;
+}
+
+    
+
+
